@@ -1,0 +1,11 @@
+Consolidated Time Spent
+
+Name of Student			Discussions		Design			Programming		Testing			Documentation	Miscellaneous (Studying etc.)
+
+Pratyush Nalam			15 hrs			5 hrs			30 hrs			4 hrs			7 hrs			25 hrs
+Pravinkumar Raut		15 hrs			4 hrs			15 hrs			1 hr			4 hrs			15 hrs
+Rohit Bhange			9 hrs			2 hrs			2 hrs			0 hrs			0 hrs			15 hrs
+Rishiraj Singh			9 hrs			2 hrs			2 hrs			0 hrs			2 hrs			11 hrs
+Pratiik Malik			9 hrs			2 hrs			2 hrs			0 hrs			0 hrs			10 hrs
+Premchandra Rathaur		9 hrs			2 hrs			2 hrs			0 hrs			0 hrs			10 hrs
+Prakhar Pankaj			0 hrs			0 hrs			0 hrs			0 hrs			0 hrs			0 hrs

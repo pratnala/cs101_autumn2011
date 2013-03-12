@@ -1,0 +1,12 @@
+Codes for the type of programme the student has enrolled in
+
+1. 4 year B. Tech.
+2. 5 year B. Tech. + M. Tech. Dual Degree
+3. 5 year B. Sc. + M. Sc. Dual Degree
+4. 2 year M. Tech.
+5. 3 year M. Tech.
+6. 2 year M. Sc.
+7. 5 year M. Tech. + Ph. D. Dual Degree
+8. Ph. D.
+
+Avishek, if I have missed any programme, let me know.
